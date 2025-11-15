@@ -83,8 +83,11 @@ The program will display your personalized introduction and save your details.
 
 Sample Output
 Good evening, John.
+
 You are 23 years old and your hobby is reading.
+
 This is a great age to build skills and shape your career.
+
 You can try Goodreads to discover new books based on your interests.
 
 # Future Enhancements 
