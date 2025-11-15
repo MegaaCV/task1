@@ -81,7 +81,8 @@ The program will display your personalized introduction and save your details.
 ├── intro.py          # Main Python Program
 └── user_info.txt     # Automatically generated file storing user entries
 
-Sample Output
+# Sample Output
+
 Good evening, John.
 
 You are 23 years old and your hobby is reading.
